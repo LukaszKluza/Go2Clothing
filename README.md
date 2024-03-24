@@ -1,8 +1,8 @@
 # Go2Clothes
 
 An online shopping website made for Introduction to Web Development course at AGH.
-
-## Still in build
+---
+This project, I developed with two friends. I was primarily involved my focus on backend development and handling frontend requests. This encompassed designing, implementing, and maintaining the server and database, as well as ensuring communication between the frontend and backend.
 
 ### Features to come:
 
@@ -19,3 +19,4 @@ Probably:
 
 Unlikely:
 - logging in via gmail, fb, tweeter
+
